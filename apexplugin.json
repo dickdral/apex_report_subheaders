@@ -28,7 +28,7 @@
         "internalName" : "NL.DETORA.APEX.REPORT_SUBHEADERS",
         "type" : "dynamic action",
         "demo" : "http://www.speech2form.com/ords/f?p=OPFG:REPORT_SUBHEADERS",
-        "previewImage" : "https://raw.githubusercontent.com/dickdral/apex_store_location/master/apex_report_subheaders_example.gif"
+        "previewImage" : "https://raw.githubusercontent.com/dickdral/apex_report_subheaders/master/apex_report_subheaders_example.gif"
       }
     }
   }
